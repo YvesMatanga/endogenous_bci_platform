@@ -14,5 +14,5 @@ Citation Information:
 
 -- Platform : "A Matlab/Simulink Framework for real time Implementation of Endogenous Brain Computer Interfaces", Yves Matanga, Djouani Karim and Anish Kurien, 13th IEEE Africon Conference, September 2017(expected date of online publication)
 
--- Datasets : "Analysis of User-Control Attainment in SMR-based Brain Computer Interfaces", Yves Matanga, Djouani Karim and Anish Kurien,
+-- Datasets : "Analysis of User Control Attainment in SMR-based Brain Computer Interfaces", Yves Matanga, Djouani Karim and Anish Kurien,
 IEEE Transactions on Neural Systems and Rehabilitation Engineering, May 2017(under review)
